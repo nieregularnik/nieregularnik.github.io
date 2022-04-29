@@ -9,9 +9,9 @@ entries:
         url: https://github.com/riggraz/no-style-please
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
+  - title: najnowsze nieregulaniki:
     post_list:
-      limit: 5
+      limit: 0
       show_more: true
       show_more_text: Zobacz archiwum...
       show_more_url: archive.html
