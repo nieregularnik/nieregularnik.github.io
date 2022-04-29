@@ -30,6 +30,13 @@ twitter_username: SzulikSzarecki
 remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: "cofnij" # customize text for homepage link in post layout
+  date_format: "%d-%m-%Y" # customize how date is formatted
+  show_description: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
