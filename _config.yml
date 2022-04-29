@@ -20,6 +20,7 @@
 
 title: nieregularnik
 email: test@test.pl
+author: Filip Szulik-Szarecki
 description: >- # this means to ignore newlines until "baseurl:"
   ...dw
 baseurl: "" # the subpath of your site, e.g. /blog
